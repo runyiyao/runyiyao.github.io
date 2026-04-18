@@ -42,14 +42,6 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
     name = "Projects"
     url = "/projects/"
     title = ""
-  [[menu.main]]
-    weight = 4
-    identifier = "about"
-    pre = ""
-    post = ""
-    name = "About"
-    url = "/about/"
-    title = ""
 
 [params]
   defaultTheme = "auto"
