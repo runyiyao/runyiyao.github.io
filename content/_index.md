@@ -7,10 +7,12 @@
 
 ## About Me
 
-Hi, I’m Runyi, but I prefer to go by Yao, as that is what all my friends have called me since primary school. I am currently working full-time in Beijing, China. Before that, I was a master’s student at Columbia University in New York, and I completed my undergraduate studies at the University of Edinburgh in Scotland.
+Hi, I’m Runyi, but I prefer to go by Yao, as that is what all my friends have called me since primary school. 
+
+I believe continuous learning, creativity, and courage are the keys to a fulfilling life. I enjoy exploring different things that interest me, and right now I am especially drawn to vibe coding. I will be sharing my projects and reflections here.
 
 I am also a huge fan of dogs, especially Australian Shepherds and Golden Retrievers. I hope that one day I can live with dogs. :)
 
 ## Contact
 
-Feel free to reach out via email at yao.runyi33@outlook.com
+If anything here interests you and you would like to discuss it further, please feel free to reach out via email at yao.runyi33@outlook.com
