@@ -3,7 +3,7 @@ title: "Hello World"
 date: 2026-04-02
 draft: false
 tags: ["hello"]
-categories: ["blog"]
+projects: ["blog"]
 ---
 
 ## Hello World
