@@ -20,19 +20,19 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
 [menu]
   [[menu.main]]
     weight = 1
-    identifier = "posts"
+    identifier = "learning"
     pre = ""
     post = ""
-    name = "Posts"
-    url = "/posts/"
+    name = "Learning"
+    url = "/learning/"
     title = ""
   [[menu.main]]
     weight = 2
-    identifier = "tags"
+    identifier = "life"
     pre = ""
     post = ""
-    name = "Tags"
-    url = "/tags/"
+    name = "Life"
+    url = "/life/"
     title = ""
   [[menu.main]]
     weight = 3
@@ -194,7 +194,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
   priority = 0.5
 
 [permalinks]
-  posts = ":contentbasename"
+  learning = ":contentbasename"
 
 [outputs]
   home = ["HTML", "RSS", "JSON"]
